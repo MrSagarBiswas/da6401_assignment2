@@ -1,4 +1,4 @@
-```
+```markdown
 # CNN on iNaturalist‑12K
 
 This repository contains code to train and evaluate a configurable convolutional neural network (CNN) on the iNaturalist‑12K dataset using PyTorch Lightning and Weights & Biases (wandb). You can run a hyperparameter sweep to find the best configuration, then train and evaluate the final model.
