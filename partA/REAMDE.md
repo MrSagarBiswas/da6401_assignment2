@@ -35,7 +35,7 @@ This repository contains code to train and evaluate a configurable convolutional
 1.  **Clone the repo**
     
     ```bash
-    git clone https://github.com/MrSagarBiswas/da6401_assignment2/
+    git clone https://github.com/MrSagarBiswas/da6401_assignment2.git
     cd da6401_assignment2/partA
     
     ```
